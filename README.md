@@ -63,11 +63,11 @@ The discrepancies were classified into three primary categories: business errors
 
 |  | VND | VND |
 |:---|---:|---:|
-| **Balance as per cash book (corrected)** | | **4,802,000** |
+| **Balance as per bank statement** | | **4,802,000** |
 | Add: Correction of overstatement | 450,000 | |
 | Add: Uncleared lodgements | 5,200,000 | |
 | Less: Unpresented cheques | 3,800,000 | |
-| **Balance as per bank statement** | | **6,652,000** |
+| **Balance as per corrected cash book** | | **6,652,000** |
 
 → **The two adjusted balances agree.** ✅
 
